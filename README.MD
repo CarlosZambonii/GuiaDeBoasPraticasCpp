@@ -18,8 +18,8 @@ O repositório está organizado em diretórios, cada um abordando um tema espec�
 
 - **01_Classes**: Introdução às classes e conceitos básicos.
 - **02_ConstrutoresEDestrutores**: Uso de construtores e destrutores para inicializar e liberar recursos.
-- **03_Constexpr**: Trabalhando com expressões constantes para otimizar o desempenho.
-- **04_Encapsulamento**: Ocultação de dados e controle de acesso.
+- **03_Encapsulamento**: Ocultação de dados e controle de acesso.
+- **04_Constexpr**: Trabalhando com expressões constantes para otimizar o desempenho.
 - **05_FuncaoVirtual**: Introdução a funções virtuais e sua utilização em polimorfismo.
 - **06_FuncaoEClassesFriend**: Permissão de acesso entre classes e funções.
 - **07_Heranca**: Implementação de herança e hierarquias de classes.
