@@ -22,7 +22,7 @@ O repositório está organizado em diretórios, cada um abordando um tema espec�
 - **04_Constexpr**: Trabalhando com expressões constantes para otimizar o desempenho.
 - **05_FuncaoVirtual**: Introdução a funções virtuais e sua utilização em polimorfismo.
 - **06_FuncaoEClassesFriend**: Permissão de acesso entre classes e funções.
-- **07_Heranca**: Implementação de herança e hierarquias de classes.
+- **07_Herança**: Implementação de herança e hierarquias de classes.
 - **08_Polimorfismo**: Uso de polimorfismo para flexibilidade no código.
 - **09_Templates**: Criação de funções e classes genéricas com templates.
 - **10_TratamentoDeExcecoes**: Como lidar com erros usando exceções.
