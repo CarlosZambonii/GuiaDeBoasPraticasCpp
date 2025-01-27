@@ -36,8 +36,8 @@ O repositório está organizado em diretórios, cada um abordando um tema espec�
 - **18_StreamsEManipulacaoDeArquivos**: Entrada e saída de dados com streams e manipulação de arquivos em C++.
 - **19_POOAvançada**: Exploração de conceitos avançados como herança múltipla, mixins e interfaces abstratas.
 - **20_DebuggingEProfiling**: Métodos e ferramentas para depuração eficaz e análise de desempenho em C++.
-- **22_ProgramacaoFuncional**: Exploração de paradigmas funcionais com lambdas, funções puras e std::function.
 - **21_MetaprogramacaoComTemplates**: Uso de templates avançados, SFINAE e conceitos de C++20 para metaprogramação.
+- **22_ProgramacaoFuncional**: Exploração de paradigmas funcionais com lambdas, funções puras e std::function.
 - **23_ProgramacaoAssincronaEFuturos**: Utilização de std::async, std::future e std::promise para operações assíncronas.
 - **24_ProgramacaoDeRedes**: Introdução ao uso de sockets e bibliotecas como Boost.Asio para comunicação de rede.
 - **25_BibliotecaBoost**: Uso da biblioteca Boost para funcionalidades adicionais como threads, smart pointers e parsing.
