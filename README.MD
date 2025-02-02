@@ -42,20 +42,6 @@ O repositório está organizado em diretórios, cada um abordando um tema espec�
 - **24_ProgramacaoDeRedes**: Introdução ao uso de sockets e bibliotecas como Boost.Asio para comunicação de rede.
 - **25_BibliotecaBoost**: Uso da biblioteca Boost para funcionalidades adicionais como threads, smart pointers e parsing.
 - **26_CompilacaoEOtimizacao**: Configuração de flags do compilador e análise de código para otimização de desempenho.
-- **27_SegurancaEmCPlusPlus**: Como prevenir vulnerabilidades como buffer overflows e evitar comportamento indefinido.
-- **28_GerenciamentoDeMemoriaDetalhado**: Comparação entre ponteiros brutos, smart pointers e alocadores personalizados.
-- **29_ProgramacaoEmTempoDeCompilacao**: Uso de constexpr e templates para cálculos e verificações em tempo de compilação.
-- **30_BibliotecasDeMatematica**: Exploração de bibliotecas como Eigen e Armadillo para cálculos científicos.
-- **31_ManipulacaoDeStringsAvancada**: Uso eficiente de strings e std::string_view para otimização de desempenho.
-- **32_DesenvolvimentoDeInterfacesGraficas**: Criação de interfaces gráficas usando bibliotecas como Qt ou SFML.
-- **33_JogosEmCPlusPlus**: Introdução à criação de jogos usando SDL ou Unreal Engine.
-- **34_AnaliseEParsingDeTexto**: Implementação de parsers simples usando Boost.Spirit ou regex padrão do C++.
-- **35_TecnicasDeTestes**: Introdução a frameworks de teste como Google Test e estratégias de testes automatizados.
-- **36_ParallelismoEComputacaoDeAltoDesempenho**: Uso de bibliotecas como OpenMP e CUDA para processamento paralelo.
-- **37_MachineLearningComCpp**: Uso de bibliotecas como Dlib ou MLpack para aprendizado de máquina.
-- **38_DesenvolvimentoDeAPIs**: Implementação de APIs RESTful em C++ usando frameworks como Pistache ou Crow.
-- **39_IntegraçãoComOutrasLinguagens**: Como interagir com Python (usando pybind11) ou C.
-- **40_CriacaoDeCompiladores**: Fundamentos de criação de compiladores simples com análise léxica e sintática.
 
 Cada diretório contém exemplos de código práticos e arquivos README.md detalhados, explicando os conceitos e as boas práticas relacionadas.
 
